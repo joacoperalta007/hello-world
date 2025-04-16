@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
+Hola so joaco tengo 17, soy de river y me gusta jugar a la pelota.
