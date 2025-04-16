@@ -1,2 +1,2 @@
 # hello-world
-Hola so joaco tengo 17, soy de river y me gusta jugar a la pelota.
+Hola soy joaco tengo 17, soy de river y me gusta jugar a la pelota.
